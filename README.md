@@ -1,7 +1,7 @@
 # GlobalSolution
 
 
-Projeto de Monitoramento de Qualidade da Água
+Projeto de Monitoramento de Qualidade da Água 
 Este projeto tem como objetivo monitorar a qualidade da água, detectando anomalias como contaminação, pH anômalo, alta concentração de lixo e vazamento de petróleo. Utilizamos um Arduino Uno para ler dados de vários sensores e acionar alertas locais (LED e buzzer) quando uma condição anormal é detectada. Informações também podem ser exibidas em um LCD.
 
 Descrição do Projeto
