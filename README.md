@@ -1,5 +1,5 @@
 # GlobalSolution
-
+RM558418- Guilherme Ulacco | RM556517-Matheus Hostim | RM555351-Henrique Lomaski |
 
 Projeto de Monitoramento de Qualidade da Água   
                                                  
